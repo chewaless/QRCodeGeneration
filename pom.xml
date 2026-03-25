@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.main</groupId>
-	<artifactId>GenerationBarCode</artifactId>
+	<artifactId>QECodeGeneration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GenerationBarCode</name>
+	<name>QECodeGeneration</name>
 	<description>Demo Spring Boot App</description>
 	<properties>
 		<java.version>1.8</java.version>
